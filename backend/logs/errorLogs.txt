@@ -1,0 +1,32 @@
+20231210	22:14:16	d8eff1cf-9714-4d39-b68d-7bca109f3431	Error	Not Allowed by CORS
+20231210	22:14:17	8c7a6ee0-ce81-4c06-ae94-f8c53730a078	Error	Not Allowed by CORS
+20231210	22:24:48	510c26f0-958c-4280-bf8f-209b8875a9ce	TypeError : res.accepts is not a function
+20231210	22:24:51	62c38677-39ab-48e5-bd57-cfecf34d9f66	TypeError : res.accepts is not a function
+20231210	22:24:52	41fdb726-36f3-42ab-9f19-51c2909cb08e	TypeError : res.accepts is not a function
+20231210	22:25:19	6ef5ac5f-7c82-4702-9fe7-556d5f339915	TypeError : res.accepts is not a function
+20231210	22:25:19	477dd4c6-5944-4788-a376-b0b0bf999957	TypeError : res.accepts is not a function
+20231211	00:01:34	9bd24b29-9b90-4f4f-9c21-30cd1fcc445f	Error : ENOENT: no such file or directory, stat 'C:\Users\Kailash Bisht\OneDrive\Desktop\Practice\Express\views\subdir\index.js'
+20231211	00:03:37	a28188c4-4f55-4921-80cf-a3b56ad40f24	Error : Not Allowed by CORS
+20231211	00:03:37	855e3353-b0e0-457e-8500-ccb507b5ca6a	Error : Not Allowed by CORS
+20231211	00:03:53	b85044ca-0db0-441c-8766-8e61a40c924c	Error : Not Allowed by CORS
+20231211	00:03:53	dfaa3eee-c697-49db-b8af-1f26ca8a663f	Error : Not Allowed by CORS
+20231211	00:04:44	cb7b9b81-fa9c-409e-badd-a5bdcf070585	Error : Not Allowed by CORS
+20231211	00:04:44	bd7b5d86-403c-42f7-8d7e-d21a8aa5268b	Error : Not Allowed by CORS
+20231211	00:06:22	7fbabfdb-a2e1-4610-b94a-bad18040bec2	Error : Not Allowed by CORS
+20231211	00:06:22	ed0687c5-226c-4514-be4d-e34cb61f1ae1	Error : Not Allowed by CORS
+20231211	00:06:24	0e2e9d62-490b-4e00-9239-89c1cd1d7bed	Error : Not Allowed by CORS
+20231211	00:06:24	6c2ab4b3-75a5-47c6-b891-1be193dea112	Error : Not Allowed by CORS
+20231211	17:42:53	af2692bc-ae27-40d0-8fa8-65479b519540	TypeError : Cannot read properties of undefined (reading 'data')
+20231211	17:52:46	0284001e-bb31-4571-8c22-791f4de530ea	Error : Cannot set headers after they are sent to the client
+20231211	17:52:47	8d3339c8-3842-4a6a-be57-b71b0c5a065c	Error : Cannot set headers after they are sent to the client
+20231211	17:52:48	2082b1e7-b96b-485b-9e7e-1209c7c4abdb	Error : Cannot set headers after they are sent to the client
+20231211	17:54:53	4d0683e1-7acb-426b-b072-20867b751520	Error : Cannot set headers after they are sent to the client
+20231211	20:37:12	2bb2b925-6e4c-440a-b0b3-ad272bb69b37	TypeError : data.students is not a function
+20231211	21:29:34	ba6aaabd-f5ad-4d35-974f-75c3cc9e653f	SyntaxError : Expected double-quoted property name in JSON at position 23
+20231215	18:02:11	24ed25c3-4c9f-4106-b153-d581130f3c72	TypeError : authHeader?.startswith is not a function
+20231215	18:07:12	5fe593cd-7bd6-4a9f-9c78-72f9730d6c5d	TypeError : Cannot read properties of undefined (reading 'find')
+20231215	18:10:34	3fc89103-0af2-4dc5-98fe-a81092f5d90f	TypeError : Cannot read properties of undefined (reading 'find')
+20231215	18:12:23	7d5074a8-bde9-4a1d-a140-9a6713f9addc	TypeError : Cannot read properties of undefined (reading 'filter')
+20231215	18:13:35	02d35744-9911-4449-9ae3-d99904d0fde2	TypeError : Cannot read properties of undefined (reading 'filter')
+20231228	22:24:35	8f45fbdd-86d8-41ae-95d5-0b9b5734f998	ReferenceError : origin is not defined
+20231228	22:24:37	999ccc1a-ac4a-4840-99ec-d413cf51eb07	ReferenceError : origin is not defined
